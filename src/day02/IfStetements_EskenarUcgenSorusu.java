@@ -2,7 +2,7 @@ package day02;
 
 import java.util.Scanner;
 
-public class EskenarUcgenSorusu {
+public class IfStetements_EskenarUcgenSorusu {
     public static void main(String[] args) {
         // Soru-Kullanicidan bir ucgenin 3 kenar uzunlugunu alin,
         // ucgen eskenar ise “Eskenar ucgen” yazdirin.
