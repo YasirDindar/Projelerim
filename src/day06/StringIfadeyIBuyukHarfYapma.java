@@ -2,7 +2,7 @@ package day06;
 
 import java.util.Scanner;
 
-public class StringİfadeyiBuyukHarfYapma {
+public class StringIfadeyIBuyukHarfYapma {
     /*
     Kullacinin girdigi cumleyi buyuk harf yazdiralim
 */
