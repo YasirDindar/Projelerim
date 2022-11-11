@@ -2,7 +2,7 @@ package day07;
 
 import java.util.Scanner;
 
-public class StringManipılations_Soru1 {
+public class StringManipulations_Soru1 {
     public static void main(String[] args) {
           /*
          Kullanıcıdan bir cümle ve bir metin alın.
