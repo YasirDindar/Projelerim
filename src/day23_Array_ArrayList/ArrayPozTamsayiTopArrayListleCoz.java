@@ -1,4 +1,4 @@
-package ders23_ArrayList;
+package day23_Array_ArrayList;
 
 import java.util.ArrayList;
 import java.util.List;
