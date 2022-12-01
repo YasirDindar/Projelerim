@@ -1,4 +1,4 @@
-package ders25_GenelTekrar;
+package day25_GenelTekrar;
 
 public class ArraydekiElemanlarinKareleriniAlipKareleriniToplama {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ders25_GenelTekrar;
+package day25_GenelTekrar;
 
 import java.util.ArrayList;
 import java.util.Arrays;
